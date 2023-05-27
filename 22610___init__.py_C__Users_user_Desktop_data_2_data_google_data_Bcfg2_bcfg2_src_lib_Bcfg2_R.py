@@ -1,0 +1,3 @@
+"""
+Public storage routines
+"""
